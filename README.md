@@ -2,7 +2,7 @@
 
 Reference implementation, experiments and results for
 
-> Q. M. Rizvi, M. A. Hassan, T. Fatima, S. Talat and M. Awais, "QuadPath-AE: Authenticated Image Encryption with Keyed Quad-Path Scrambling, Evaluated against
+> Q. M. Rizvi, M. A. Hassan, T. Fatima, I. M. Rizvi, S. Talat and M. Awais, "QuadPath-AE: Authenticated Image Encryption with Keyed Quad-Path Scrambling, Evaluated against
 > Statistical and Deep-Learning Attacks," submitted to *Machine Learning and Knowledge Extraction* (MDPI).
 
 Archived on Zenodo: [doi:10.5281/zenodo.23723205](https://doi.org/10.5281/zenodo.23723205)
