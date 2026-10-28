@@ -5,6 +5,8 @@ Reference implementation, experiments and results for
 > Q. M. Rizvi, M. A. Hassan, T. Fatima, S. Talat and M. Awais, "QuadPath-AE: Authenticated Image Encryption with Keyed Quad-Path Scrambling, Evaluated against
 > Statistical and Deep-Learning Attacks," submitted to *Machine Learning and Knowledge Extraction* (MDPI).
 
+Archived on Zenodo: [doi:10.5281/zenodo.23723205](https://doi.org/10.5281/zenodo.23723205)
+
 QuadPath-AE encrypts an `H × W × C` 8-bit image under a 256-bit key and a fresh 128-bit nonce:
 
 1. **Key schedule:** `(Ke ‖ Km) = HKDF-Expand(K, "QPAE-v1" ‖ header ‖ nonce)`. Every secret is drawn from a purpose-labelled ChaCha20 keystream.
