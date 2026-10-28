@@ -1,0 +1,54 @@
+{
+  "nist_e_max_abs_diff": 0.048598,
+  "overlapping_template_nu": [
+    329,
+    164,
+    150,
+    111,
+    78,
+    136
+  ],
+  "null": {
+    "trials": 2000,
+    "shape": [
+      256,
+      256
+    ],
+    "npcr_mean": 99.60968933105468,
+    "npcr_theory": 99.609375,
+    "npcr_crit_05": 99.5692959502256,
+    "npcr_reject_rate": 0.0495,
+    "uaci_mean": 33.462929343429266,
+    "uaci_theory": 33.46354166666667,
+    "uaci_interval_05": [
+      33.282376385935464,
+      33.64470694739787
+    ],
+    "uaci_reject_rate": 0.045
+  },
+  "local_entropy_mc": {
+    "trials": 100000,
+    "mean": 7.9024668725744345,
+    "sd": 0.0015881256858666809,
+    "sd_analytic": 0.0015362562084555748,
+    "interval_05": [
+      7.899323622967348,
+      7.905547407494595
+    ],
+    "interval_001": [
+      7.897224802909276,
+      7.907677812496243
+    ],
+    "published_interval_001": [
+      7.901515798,
+      7.903422936
+    ],
+    "published_mean": 7.902469317,
+    "reject_rate_published_001": 0.54928
+  },
+  "unit": {
+    "path_orders_checked": 32768,
+    "roundtrip_and_mask_cases": 280
+  },
+  "seconds": 43.74665188789368
+}

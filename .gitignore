@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/kodak/
+.venv/
+.DS_Store

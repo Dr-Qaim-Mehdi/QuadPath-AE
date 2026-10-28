@@ -1,0 +1,65 @@
+QuadPath-AE | Kodak-24: 33s
+QuadPath-AE | all-black: 31s
+LOG-PD | Kodak-24: 34s
+QUAD-PATH'24 | Kodak-24: 26s
+      scheme    source                    test  sequences  subtests  min_proportion  min_uniformity_p  subtests_passed  proportion_threshold passed
+ QuadPath-AE  Kodak-24               Frequency        100       1.0        1.000000      3.080643e-02              1.0              0.960150   True
+ QuadPath-AE  Kodak-24          BlockFrequency        100       1.0        1.000000      3.041258e-01              1.0              0.960150   True
+ QuadPath-AE  Kodak-24          CumulativeSums        100       2.0        1.000000      4.372742e-01              2.0              0.960150   True
+ QuadPath-AE  Kodak-24                    Runs        100       1.0        0.990000      6.371194e-01              1.0              0.960150   True
+ QuadPath-AE  Kodak-24              LongestRun        100       1.0        0.990000      9.834530e-01              1.0              0.960150   True
+ QuadPath-AE  Kodak-24                    Rank        100       1.0        0.980000      3.517354e-02              1.0              0.960150   True
+ QuadPath-AE  Kodak-24                     FFT        100       1.0        0.990000      8.051851e-02              1.0              0.960150   True
+ QuadPath-AE  Kodak-24  NonOverlappingTemplate        100     148.0        0.950000      3.711762e-03            147.0              0.960150  False
+ QuadPath-AE  Kodak-24     OverlappingTemplate        100       1.0        1.000000      8.977626e-01              1.0              0.960150   True
+ QuadPath-AE  Kodak-24               Universal        100       1.0        1.000000      6.579333e-01              1.0              0.960150   True
+ QuadPath-AE  Kodak-24      ApproximateEntropy        100       1.0        0.970000      2.757089e-01              1.0              0.960150   True
+ QuadPath-AE  Kodak-24        RandomExcursions         59       8.0        0.983051      8.909047e-02              8.0              0.951139   True
+ QuadPath-AE  Kodak-24 RandomExcursionsVariant         59      18.0        0.966102      5.755336e-03             18.0              0.951139   True
+ QuadPath-AE  Kodak-24                  Serial        100       2.0        0.980000      2.022677e-01              2.0              0.960150   True
+ QuadPath-AE  Kodak-24        LinearComplexity        100       1.0        1.000000      2.022677e-01              1.0              0.960150   True
+ QuadPath-AE all-black               Frequency        100       1.0        0.980000      6.661459e-03              1.0              0.960150   True
+ QuadPath-AE all-black          BlockFrequency        100       1.0        1.000000      2.622488e-01              1.0              0.960150   True
+ QuadPath-AE all-black          CumulativeSums        100       2.0        0.990000      1.296196e-01              2.0              0.960150   True
+ QuadPath-AE all-black                    Runs        100       1.0        0.980000      3.504852e-01              1.0              0.960150   True
+ QuadPath-AE all-black              LongestRun        100       1.0        1.000000      5.194164e-02              1.0              0.960150   True
+ QuadPath-AE all-black                    Rank        100       1.0        1.000000      2.022677e-01              1.0              0.960150   True
+ QuadPath-AE all-black                     FFT        100       1.0        0.990000      1.537633e-01              1.0              0.960150   True
+ QuadPath-AE all-black  NonOverlappingTemplate        100     148.0        0.950000      1.559810e-02            143.0              0.960150  False
+ QuadPath-AE all-black     OverlappingTemplate        100       1.0        1.000000      1.626063e-01              1.0              0.960150   True
+ QuadPath-AE all-black               Universal        100       1.0        0.990000      2.896675e-01              1.0              0.960150   True
+ QuadPath-AE all-black      ApproximateEntropy        100       1.0        0.990000      3.190835e-01              1.0              0.960150   True
+ QuadPath-AE all-black        RandomExcursions         55       8.0        0.981818      1.255960e-01              8.0              0.949751   True
+ QuadPath-AE all-black RandomExcursionsVariant         55      18.0        0.963636      1.967215e-02             18.0              0.949751   True
+ QuadPath-AE all-black                  Serial        100       2.0        0.990000      2.368098e-01              2.0              0.960150   True
+ QuadPath-AE all-black        LinearComplexity        100       1.0        1.000000      8.165368e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24               Frequency        100       1.0        0.980000      8.513826e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24          BlockFrequency        100       1.0        0.990000      5.955485e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24          CumulativeSums        100       2.0        0.960000      5.141236e-01              1.0              0.960150  False
+      LOG-PD  Kodak-24                    Runs        100       1.0        1.000000      7.981391e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24              LongestRun        100       1.0        0.990000      4.011993e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24                    Rank        100       1.0        1.000000      4.943917e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24                     FFT        100       1.0        1.000000      8.513826e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24  NonOverlappingTemplate        100     148.0        0.960000      1.200728e-03            146.0              0.960150  False
+      LOG-PD  Kodak-24     OverlappingTemplate        100       1.0        0.990000      1.296196e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24               Universal        100       1.0        0.980000      7.791877e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24      ApproximateEntropy        100       1.0        0.990000      5.141236e-01              1.0              0.960150   True
+      LOG-PD  Kodak-24        RandomExcursions         61       8.0        0.983607      5.640851e-02              8.0              0.951781   True
+      LOG-PD  Kodak-24 RandomExcursionsVariant         61      18.0        0.983607      2.662344e-02             18.0              0.951781   True
+      LOG-PD  Kodak-24                  Serial        100       2.0        0.980000      4.011993e-01              2.0              0.960150   True
+      LOG-PD  Kodak-24        LinearComplexity        100       1.0        0.990000      5.141236e-01              1.0              0.960150   True
+QUAD-PATH'24  Kodak-24               Frequency        100       1.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24          BlockFrequency        100       1.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24          CumulativeSums        100       2.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24                    Runs        100       1.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24              LongestRun        100       1.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24                    Rank        100       1.0        0.660000      3.359330e-23              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24                     FFT        100       1.0        0.140000     2.217589e-147              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24  NonOverlappingTemplate        100     148.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24     OverlappingTemplate        100       1.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24               Universal        100       1.0        0.150000     8.176623e-140              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24      ApproximateEntropy        100       1.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24        RandomExcursions          0       NaN             NaN               NaN              NaN                   NaN    NaN
+QUAD-PATH'24  Kodak-24 RandomExcursionsVariant          0       NaN             NaN               NaN              NaN                   NaN    NaN
+QUAD-PATH'24  Kodak-24                  Serial        100       2.0        0.000000     6.186801e-188              0.0              0.960150  False
+QUAD-PATH'24  Kodak-24        LinearComplexity        100       1.0        0.990000      7.597563e-01              1.0              0.960150   True

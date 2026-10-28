@@ -1,0 +1,19 @@
+{'batch': 0, 'tests_passed': 13, 'nonoverlap_subtests_failed': 1}
+{'batch': 1, 'tests_passed': 13, 'nonoverlap_subtests_failed': 1}
+{'batch': 2, 'tests_passed': 14, 'nonoverlap_subtests_failed': 2}
+{'batch': 3, 'tests_passed': 13, 'nonoverlap_subtests_failed': 1}
+{'batch': 4, 'tests_passed': 13, 'nonoverlap_subtests_failed': 1}
+{'batch': 5, 'tests_passed': 13, 'nonoverlap_subtests_failed': 1}
+{'batch': 6, 'tests_passed': 14, 'nonoverlap_subtests_failed': 1}
+{'batch': 7, 'tests_passed': 14, 'nonoverlap_subtests_failed': 5}
+{'batch': 8, 'tests_passed': 14, 'nonoverlap_subtests_failed': 1}
+{'batch': 9, 'tests_passed': 14, 'nonoverlap_subtests_failed': 3}
+          batch  tests_passed  nonoverlap_subtests_failed
+count  10.00000     10.000000                   10.000000
+mean    4.50000     13.500000                    1.700000
+std     3.02765      0.527046                    1.337494
+min     0.00000     13.000000                    1.000000
+25%     2.25000     13.000000                    1.000000
+50%     4.50000     13.500000                    1.000000
+75%     6.75000     14.000000                    1.750000
+max     9.00000     14.000000                    5.000000

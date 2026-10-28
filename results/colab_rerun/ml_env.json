@@ -1,0 +1,6 @@
+{
+  "device": "cuda",
+  "torch": "2.11.0+cu130",
+  "quick": false,
+  "seconds": 342.05857253074646
+}

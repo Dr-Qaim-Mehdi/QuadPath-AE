@@ -1,0 +1,17 @@
+test,subtest,reference,ours,abs_diff
+Frequency,0,0.953749,0.953749,0.0
+BlockFrequency,0,0.211072,0.211072,0.0
+CumulativeSums,0,0.669887,0.669886,1.0000000000287557e-06
+CumulativeSums,1,0.724266,0.724265,9.999999999177334e-07
+Runs,0,0.561917,0.561917,0.0
+LongestRun,0,0.718945,0.718945,0.0
+Rank,0,0.306156,0.306156,0.0
+FFT,0,0.847187,0.847187,0.0
+NonOverlappingTemplate,0,0.07879,0.07879,0.0
+OverlappingTemplate,0,0.110434,0.159032,0.048598
+Universal,0,0.282568,0.282568,0.0
+ApproximateEntropy,0,0.700073,0.700073,0.0
+RandomExcursions,4,0.786868,0.786868,0.0
+RandomExcursionsVariant,8,0.826009,0.826009,0.0
+LinearComplexity,0,0.826335,0.826335,0.0
+Serial,0,0.766182,0.766182,0.0

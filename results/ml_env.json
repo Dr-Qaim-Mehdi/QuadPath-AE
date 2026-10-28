@@ -1,0 +1,6 @@
+{
+  "device": "mps",
+  "torch": "2.14.1",
+  "quick": false,
+  "seconds": 3751.4294679164886
+}
